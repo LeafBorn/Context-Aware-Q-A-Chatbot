@@ -35,8 +35,9 @@ GEN-AI Concepts:
   Prompt Engineering
 
 PROJECT STRUCTURE
-    qa-chatbot/
+ ```   qa-chatbot/
     │
     ├── app.py              # Streamlit app (frontend + backend)
     ├── requirements.txt    # Dependencies
     └── README.md           # Project documentation
+```
